@@ -9,7 +9,7 @@ class Human {
 }
 
 class Person extends Human {
-    constructor() {
+    constructor() { //constructor = 생성자
         super();
         this.name = 'Max';
         this.gender = 'female';
