@@ -9,6 +9,24 @@ Div : <div> 요소는 여러 HTML 요소들을 하나로 묶어주어
       CSS로 스타일을 변경하거나 자바스크립트로 특정 작업을 수행하기 위한 일종의 컨테이너(container)로 자주 사용됩니다. 
       또한, CSS와 함께 웹 페이지의 레이아웃(layout)을 설정하는데도 종종 사용됩니다.
 
-      
+
 ----------------- source -------------------
 npm run build : 리액트 실행 명령어
+
+-커밋
+Git status
+git add -A
+git commit -m "test3"
+git push
+
+-Shift + option + f : 소스코드 자동정렬
+
+----------------- 기억해야 하는 내용 ----------------
+-index.js 파일이 실행되는 첫 번째 파일이다.
+-리액트, 리액트 돔 : 두 개의 분리된 패키지 이지만 라이브러리 리액트로 생각할 수 있다.
+-
+ReactDOM.render(
+  <React.StrictMode><App /></React.StrictMode>,document.getElementById('root')
+);
+      자바스크립트 돔 API 매개변수
+-.app 도 결국 컴포넌트이다.
