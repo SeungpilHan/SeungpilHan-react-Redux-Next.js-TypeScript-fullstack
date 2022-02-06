@@ -30,3 +30,4 @@ ReactDOM.render(
 );
       자바스크립트 돔 API 매개변수
 -.app 도 결국 컴포넌트이다.
+
