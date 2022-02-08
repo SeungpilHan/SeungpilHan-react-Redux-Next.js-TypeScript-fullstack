@@ -15,6 +15,10 @@ JSX : React에서는 본질적으로 렌더링 로직이
       연결된다는 사실을 받아들입니다.
 
 const : 절대 변하지않는 함수
+
+props : 프로퍼티를 뜻한다,
+        참조 : https://codingmania.tistory.com/274
+        
 ----------------- source -------------------
 npm run build : 리액트 실행 명령어
 
