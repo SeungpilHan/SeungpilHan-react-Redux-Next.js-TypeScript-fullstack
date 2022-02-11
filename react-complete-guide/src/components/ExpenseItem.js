@@ -16,5 +16,4 @@ function ExpenseItem(props) {
     </Card>
   );
 }
-
 export default ExpenseItem;
