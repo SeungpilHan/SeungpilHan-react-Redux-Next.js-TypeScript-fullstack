@@ -1,6 +1,6 @@
 //Shift + option + f : 소스코드 자동정렬
 import './ExpenseDate';
-import Card from './Card';
+import Card from '../UI/Card';
 import ExpenseDate from './ExpenseDate';
 import './ExpenseItem.css';
 
