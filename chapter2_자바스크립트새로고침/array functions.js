@@ -6,3 +6,4 @@ const doubleNumArray = numbers.map((num) => {
 
 console.log(numbers);
 console.log(doubleNumArray);
+
